@@ -4,7 +4,7 @@ This is a simple batch script that creates an Earth animation in the command pro
 ## How to Run the Animation
 Ensure you have Windows operating system installed on your computer.
 Download the earth_animation.bat file to your preferred directory.
-Double-click on the earth_animation.bat file to run it.
+Double-click on the `earth_animation.bat` file to run it.
 A command prompt window will open, and you will start to see the Earth animation.
 
 ## How the Animation Works
